@@ -1,4 +1,4 @@
-#Salon-Booking-System
+# Salon-Booking-System
 
 ## About
 >Author: Matthew Palmer  
